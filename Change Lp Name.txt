@@ -1,0 +1,7 @@
+1)Press Win + R and type Regedit
+2) Go to HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\0
+3)Open ProcessorNameString
+4) change Laptop Name Just Like (i5,i7)
+Thanks For Reading 
+
+  

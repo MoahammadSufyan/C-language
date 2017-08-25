@@ -1,0 +1,5 @@
+1)Go To cmd press Win+R And Type cmd
+2)type (attribe +s +h G:\Hide (Folder Name just like G:\Hide)) this Process For Hide
+3)go to cmd and type (attribe -s -h G:\Hide)this Process For Show the Folder
+Remmber If you Loss You Folder Name we are Not Acess the Folder
+Thanks For Reading                                  

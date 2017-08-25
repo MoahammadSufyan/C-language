@@ -1,0 +1,8 @@
+Press Win+R type (gpedit.msc)and hit enter
+than Go to adminstrative Template 
+than Go to window Component 
+than Dbclick File Explorer
+than find Hide the Specifhy Drive on my computer click
+than Enable
+than Select Any Drive 
+Thanks For Readind .....The Grate Cheter........
